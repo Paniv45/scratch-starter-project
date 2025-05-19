@@ -50,7 +50,7 @@ npm start
 http://localhost:3000
 ```
 
-🛠️ Tech Stack
+# 🛠️ Tech Stack
 ⚛️ ReactJS | 🎨 TailwindCSS | 🧱 Custom animation logic
 
 
